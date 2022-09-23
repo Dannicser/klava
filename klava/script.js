@@ -1,5 +1,4 @@
 const leter = document.querySelectorAll(".leter_js");
-const out = document.querySelector(".out");
 const inp = document.querySelector("#i-1");
 
 inp.onkeypress = (event) => {
